@@ -125,6 +125,20 @@
 
   <img
     align="left"
+    title="Adobe XD"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+
+  <img
+    align="left"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+  <img
+    align="left"
     title="Windows Server"
     width="30px"
     style="padding-right: 10px;"

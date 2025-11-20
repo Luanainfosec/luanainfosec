@@ -15,7 +15,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
     <!-- Modo claro: defina um tema apropriado (exemplo 'default' ou outro de sua escolha) -->
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
     <!-- Fallback -->
     <img width="49%" height="auto" 
       src="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
@@ -100,6 +100,13 @@
     width="30px"
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+  <img
+    align="left"
+    title="Microsoft Copilot"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
   
   <img
     align="left"

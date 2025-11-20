@@ -130,6 +130,12 @@
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
 
+  <!-- <img
+    align="left"
+    title="NMAP"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/> -->
   
   <img
     align="left"

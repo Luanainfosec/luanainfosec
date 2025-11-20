@@ -122,6 +122,13 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+
+  <img
+    align="left"
+    title="Windows Server"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://penseemti.com.br/wp-content/uploads/2016/02/windows-server-logo.png" />
     
   <img
     align="left"

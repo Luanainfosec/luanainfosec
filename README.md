@@ -12,7 +12,7 @@
   <picture>
     <!-- Modo escuro -->
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
     <!-- Modo claro: defina um tema apropriado (exemplo 'default' ou outro de sua escolha) -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api?username=otaviossousa&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">

@@ -36,11 +36,104 @@
       alt="Linguagens mais usadas">
   </picture>
 </div>
-  
-  ##
+
   <!-- ------------------ Linguagens-->
+
+  <h2 align="center">🤖 Linguagens, ferramentas e SO:</h2>
+
+<img 
+    align="left"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left"
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left"
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left"
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left"
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+  align="left"
+  title="Amazon Web Services"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   
-  <h2 align="center">Linguagens e ferramentas:</h2>
+  <img
+    align="left"
+    title="Azure"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+    
+  <img
+    align="left"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  
+  <img
+    align="left"
+    title="Adobe Photoshop"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+    
+  <img
+    align="left"
+    title="Adobe Ilustrator"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+    
+  <img
+    align="left"
+    title="Kali Linux"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
+
+  
+  <img
+    align="left"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    
+<br/>
+
+  <!-- <h2 align="center">Linguagens e ferramentas:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -52,7 +145,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-     <!--<td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
@@ -71,15 +164,15 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td> -->
+    </td>
     <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
-     <!-- <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
-    </td> -->
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
       <br>AWS
@@ -89,7 +182,7 @@
 </div>
 
 
-<div align="center">
+<div align="center">/-->
   
 <!-- ------------------ Animação da Cobrinha -->
 

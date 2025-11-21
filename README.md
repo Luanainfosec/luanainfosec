@@ -39,7 +39,7 @@
 
   <!-- ------------------ Linguagens-->
 
-  <h2 align="center">🤖 Linguagens, ferramentas e SO:</h2>
+  <h2 align="center">🤖 Linguagens, ferramentas e Sistemas Operacionais:</h2>
 
 <img 
     align="left"

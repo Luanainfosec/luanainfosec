@@ -220,21 +220,19 @@
   
 <!-- ------------------ Animação da Cobrinha -->
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
-</div>
+</div> -->
 
 <!-- ------------------ Pacman -->
-###
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
 </picture>
-
-###

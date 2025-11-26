@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luhrodrigues45&label=Profile%20views&color=00FFFF&style=flat" alt="Luana-Rodrigues" /> <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> </p>
 
 <div align="center">
-  <h1 align="center">Olá, seja bem-vindo(a)!
+  <h1 align="center">𝑶𝒍𝒂́, 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐(𝒂)!
   <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle"       src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" /></a>
     <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://media.licdn.com/dms/image/D4D12AQGHvJ-VPX_Usw/article-cover_image-shrink_600_2000/0/1686755671319?e=2147483647&v=beta&t=jstLIergXwNJD1dwKkAhI8-wIgvFyCYM73tOsob_RpU" target="_blank" /></a>
   </h1>
@@ -17,7 +17,7 @@
 
 <!-- ------------------ Linguagens-->
 
-  <h1 align="center">🤖 Linguagens, ferramentas e sistemas operacionais:</h1>
+  <h1 align="center">🤖 𝑳𝒊𝒏𝒈𝒖𝒂𝒈𝒆𝒏𝒔, 𝒇𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔 𝒆 𝒔𝒊𝒔𝒕𝒆𝒎𝒂𝒔 𝒐𝒑𝒆𝒓𝒂𝒄𝒊𝒐𝒏𝒂𝒊𝒔:</h1>
 
 <img 
     align="left"
@@ -129,12 +129,12 @@
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
 
-  <!-- <img
+  <img
     align="left"
     title="NMAP"
     width="30px"
     style="padding-right: 10px;"
-  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/> -->
+  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   
   <img
     align="left"

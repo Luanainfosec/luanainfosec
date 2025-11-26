@@ -1,5 +1,5 @@
 <!-- ------------------ Cabeçalho, gifs e ícones -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luhrodrigues45&label=Profile%20views&color=0e75b6&style=flat" alt="Luana-Rodrigues" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luhrodrigues45&label=Profile%20views&color=00FFFF&style=flat" alt="Luana-Rodrigues" /> <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> </p>
 
 <div align="center">
   <h1 align="center">Olá, seja bem-vindo(a)!
@@ -207,10 +207,16 @@
 </div> -->
 
 <!-- ------------------ Pacman -->
-#
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+⭐ *Cibersegurança é o lembrete de que o “clique inocente” costuma custar mais do que o ataque mais sofisticado.* 
+
+---

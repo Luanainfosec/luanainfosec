@@ -217,6 +217,6 @@
 
 ---
 
-⭐ *Cibersegurança é o lembrete de que o “clique inocente” costuma custar mais do que o ataque mais sofisticado.* 
+⭐ *A rede mais segura é aquela em que cada decisão foi tomada como se o ataque já tivesse começado.*
 
 ---

@@ -13,11 +13,11 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/> -->
 
 <!-- ------------------ Linguagens-->
 
-  <h2 align="center">🤖 Linguagens, ferramentas e sistemas operacionais:</h2>
+  <h1 align="center">🤖 Linguagens, ferramentas e sistemas operacionais:</h1>
 
 <img 
     align="left"

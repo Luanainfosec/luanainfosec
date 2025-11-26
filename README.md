@@ -44,21 +44,21 @@
 <img 
     align="left"
     title="HTML" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left"
     title="CSS"
-    width="30px" 
+    width="25px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left"
     title="JavaScript"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -66,7 +66,7 @@
 <img 
     align="left"
     title="Python"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -74,7 +74,7 @@
 <img 
     align="left"
     title="Git"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -82,14 +82,14 @@
 <img
   align="left"
   title="Amazon Web Services"
-  width="30px"
+  width="25px"
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   
   <img
     align="left"
     title="Azure"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
@@ -97,21 +97,21 @@
   <img
     align="left"
     title="Docker"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
   <img
     align="left"
     title="Microsoft Copilot"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
   src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
   
   <img
     align="left"
     title="Adobe Photoshop"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 
@@ -119,35 +119,35 @@
   <img
     align="left"
     title="Adobe Ilustrator"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
 
   <img
     align="left"
     title="Adobe XD"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
 
   <img
     align="left"
     title="Figma"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
   <img
     align="left"
     title="Windows Server"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
     src="https://penseemti.com.br/wp-content/uploads/2016/02/windows-server-logo.png" />
     
   <img
     align="left"
     title="Kali Linux"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
 
@@ -161,7 +161,7 @@
   <img
     align="left"
     title="Linux"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     

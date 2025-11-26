@@ -13,7 +13,7 @@
 
 <img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/> -->
 
 <!-- ------------------ Linguagens-->
 
@@ -132,7 +132,7 @@
   <img
     align="left"
     title="NMAP"
-    width="30px"
+    width="25px"
     style="padding-right: 10px;"
   src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   

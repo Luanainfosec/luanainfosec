@@ -9,11 +9,11 @@
   
 <!-- ------------------ Estatísticas -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="General stats badge"/>
+<img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="General stats badge"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
+<img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
 
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/>
 
 <!-- ------------------ Linguagens-->
 

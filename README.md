@@ -76,7 +76,7 @@
 
 ---
 
-⭐ *A rede mais segura é aquela em que cada decisão foi tomada como se o ataque já tivesse começado.*
+<p align="center"> ⭐ A rede mais segura é aquela em que cada decisão foi tomada como se o ataque já tivesse começado. </p>
 
 ---
 

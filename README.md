@@ -8,22 +8,125 @@
   </h1>
 </div>
 
+<br>
+
 <h2> 🎓 Formação e Foco Profissional: </h2>
 
 - 🎯 **Sou Formada** em **Tecnologia em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
 - 💡 **Minhas áreas de Interesse:** Análise de Vulnerabilidades/Malware, Segurança de Redes.
 - 📚 **Aprendizado Contínuo:** Focada em conhecimento na área **[RED TEAM].**
 
+<br>
 
 <h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>
 
-- Linux | Kali Linux |
-- Front-End | Python | Git |
-- Microsoft Copilot | Gemini | ChatGPT |
-- Docker | Windows Server | Amazon Web Services | Azure |
-- Adobe Photoshop | Adobe Ilustrator | Adobe Ligthroom | Adobe XD | Adobe Indesign | Figma |
+<img 
+    align="left"
+    title="HTML" 
+    width="25px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left"
+    title="CSS"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left"
+    title="JavaScript"
+    width="25px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
----
+<img 
+    align="left"
+    title="Python"
+    width="25px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left"
+    title="Git"
+    width="25px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+  align="left"
+  title="Amazon Web Services"
+  width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  
+  <img
+    align="left"
+    title="Azure"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+    
+  <img
+    align="left"
+    title="Docker"
+    width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+  <img
+    align="left"
+    title="Microsoft Copilot"
+    width="25px"
+  src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
+  
+  <img
+    align="left"
+    title="Adobe Photoshop"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+  <img
+    align="left"
+    title="Adobe Ilustrator"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
+
+  <img
+    align="left"
+    title="Adobe XD"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
+
+  <img
+    align="left"
+    title="Figma"
+    width="25px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+  <img
+    align="left"
+    title="Windows Server"
+    width="25px"
+    src="https://penseemti.com.br/wp-content/uploads/2016/02/windows-server-logo.png" />
+    
+  <img
+    align="left"
+    title="Kali Linux"
+    width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
+
+  <img
+    align="left"
+    title="NMAP"
+    width="25px"
+  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+  
+  <img
+    align="left"
+    title="Linux"
+    width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+  <br><br>
 <!-- ------------------ Estatísticas -->
 
 <div align="center">

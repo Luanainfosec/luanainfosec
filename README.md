@@ -6,7 +6,24 @@
   <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle"       src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" /></a>
     <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://media.licdn.com/dms/image/D4D12AQGHvJ-VPX_Usw/article-cover_image-shrink_600_2000/0/1686755671319?e=2147483647&v=beta&t=jstLIergXwNJD1dwKkAhI8-wIgvFyCYM73tOsob_RpU" target="_blank" /></a>
   </h1>
-  
+</div>
+
+<h2> 🎓 Formação e Foco Profissional: </h2>
+
+- 🎯 **Sou Formada** em **Tecnologia em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
+- 💡 **Minhas áreas de Interesse:** Análise de Vulnerabilidades/Malware, Segurança de Redes.
+- 📚 **Aprendizado Contínuo:** Focada em conhecimento na área **[RED TEAM].**
+
+
+<h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>
+
+- Linux | Kali Linux |
+- Front-End | Python | Git |
+- Microsoft Copilot | Gemini | ChatGPT |
+- Docker | Windows Server | Amazon Web Services | Azure |
+- Adobe Photoshop | Adobe Ilustrator | Adobe Ligthroom | Adobe XD | Adobe Indesign | Figma |
+
+---
 <!-- ------------------ Estatísticas -->
 
 <div align="center">
@@ -37,187 +54,6 @@
       alt="Linguagens mais usadas">
   </picture>
 </div>
-
-<!-- ------------------ Linguagens-->
-
-  <h1 align="center">🤖 Linguagens, ferramentas e sistemas operacionais:</h1>
-
-<img 
-    align="left"
-    title="HTML" 
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left"
-    title="CSS"
-    width="25px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left"
-    title="JavaScript"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left"
-    title="Python"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left"
-    title="Git"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-  align="left"
-  title="Amazon Web Services"
-  width="25px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  
-  <img
-    align="left"
-    title="Azure"
-    width="25px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-
-    
-  <img
-    align="left"
-    title="Docker"
-    width="25px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-  <img
-    align="left"
-    title="Microsoft Copilot"
-    width="25px"
-    style="padding-right: 10px;"
-  src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
-  
-  <img
-    align="left"
-    title="Adobe Photoshop"
-    width="25px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-
-    
-  <img
-    align="left"
-    title="Adobe Ilustrator"
-    width="25px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
-
-  <img
-    align="left"
-    title="Adobe XD"
-    width="25px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
-
-  <img
-    align="left"
-    title="Figma"
-    width="25px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-  <img
-    align="left"
-    title="Windows Server"
-    width="25px"
-    style="padding-right: 10px;"
-    src="https://penseemti.com.br/wp-content/uploads/2016/02/windows-server-logo.png" />
-    
-  <img
-    align="left"
-    title="Kali Linux"
-    width="25px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
-
-  <img
-    align="left"
-    title="NMAP"
-    width="25px"
-    style="padding-right: 10px;"
-  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
-  
-  <img
-    align="left"
-    title="Linux"
-    width="25px"
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    
-<br/>
-
-  <!-- <h2 align="center">Linguagens e ferramentas:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>              
- </tr>
-</table>
-</div>
-
-
-<div align="center">/-->
   
 <!-- ------------------ Animação da Cobrinha -->
 
@@ -243,3 +79,11 @@
 ⭐ *A rede mais segura é aquela em que cada decisão foi tomada como se o ataque já tivesse começado.*
 
 ---
+
+<p align="center">
+    <a href="https://www.instagram.com/luhrodrigues45/">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Instagram%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/luhrodrigues45/">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-LinkedIn-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="LinkedIn" />
+    </a>

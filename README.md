@@ -16,8 +16,6 @@
 - 💡 **Minhas áreas de Interesse:** Análise de Vulnerabilidades/Malware, Segurança de Redes.
 - 📚 **Aprendizado Contínuo:** Focada em conhecimento na área **[RED TEAM].**
 
-<br>
-
 <h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>
 
 <img 

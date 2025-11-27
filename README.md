@@ -9,11 +9,34 @@
   
 <!-- ------------------ Estatísticas -->
 
-<img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="General stats badge"/>
-
-<img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
-
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luhrodrigues45&theme=transparent" alt="Profile details badge"/> -->
+<div align="center">
+  <picture>
+    <!-- Modo escuro -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
+    <!-- Modo claro: defina um tema apropriado (exemplo 'default' ou outro de sua escolha) -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
+    <!-- Fallback -->
+    <img width="49%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
+      alt="Estatísticas do GitHub">
+  </picture>
+  
+  <!-- Top Langs -->
+  <picture>
+    <!-- Modo escuro -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+    <!-- Modo claro -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
+    <!-- Fallback -->
+    <img width="37%" height="auto" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
+      alt="Linguagens mais usadas">
+  </picture>
+</div>
 
 <!-- ------------------ Linguagens-->
 

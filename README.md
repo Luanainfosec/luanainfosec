@@ -13,7 +13,7 @@
 <h2> 🎓 Formação e Foco Profissional: </h2>
 
 - 🎯 **Sou Formada** em **Tecnologia em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
-- 💡 **Minhas áreas de Interesse:** Análise de Vulnerabilidades/Malware, Segurança de Redes.
+- 💡 **Minhas áreas de Interesse:** Analista de Defesa Cibernética, analista de vulnerabilidades.
 - 📚 **Aprendizado Contínuo:** Focada em conhecimento na área **[RED TEAM].**
 
 <h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>

@@ -3,8 +3,8 @@
 
 <div align="center">
   <h1 align="center">Olá, seja bem-vinda(o)!
-  <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle"       src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" /></a>
-    <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://media.licdn.com/dms/image/D4D12AQGHvJ-VPX_Usw/article-cover_image-shrink_600_2000/0/1686755671319?e=2147483647&v=beta&t=jstLIergXwNJD1dwKkAhI8-wIgvFyCYM73tOsob_RpU" target="_blank" /></a>
+  <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" /></a>
+  <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://media.licdn.com/dms/image/D4D12AQGHvJ-VPX_Usw/article-cover_image-shrink_600_2000/0/1686755671319?e=2147483647&v=beta&t=jstLIergXwNJD1dwKkAhI8-wIgvFyCYM73tOsob_RpU" target="_blank" /></a>
   </h1>
 </div>
 
@@ -12,8 +12,8 @@
 
 <h2> 🎓 Formação e Foco Profissional: </h2>
 
-- 🎯 **Sou Formada** em **Tecnologia em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
-- 💡 **Minhas áreas de Interesse:** Analista de Defesa Cibernética, analista de vulnerabilidades.
+- 🎯 **Formação:** **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
+- 💡 **Áreas de Interesse:** Analista de Defesa Cibernética, analista de vulnerabilidades.
 - 📚 **Aprendizado Contínuo:** Focada em conhecimento na área **[RED TEAM].**
 
 <h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>
@@ -57,23 +57,23 @@
   width="25px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   
-  <img
-    align="left"
-    title="Azure"
-    width="25px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img
+  align="left"
+  title="Azure"
+  width="25px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
     
-  <img
-    align="left"
-    title="Docker"
-    width="25px"
+<img
+  align="left"
+  title="Docker"
+  width="25px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-  <img
-    align="left"
-    title="Microsoft Copilot"
-    width="25px"
+<img
+  align="left"
+  title="Microsoft Copilot"
+  width="25px"
   src="https://img.icons8.com/fluency/48/microsoft-copilot.png" alt="microsoft-copilot"/>
   
   <img
@@ -125,35 +125,13 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   <br><br>
-<!-- ------------------ Estatísticas -->
-
-<div align="center">
-  <picture>
-    <!-- Modo escuro -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117">
-    <!-- Modo claro: defina um tema apropriado (exemplo 'default' ou outro de sua escolha) -->
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=ffffff">
-    <!-- Fallback -->
-    <img width="49%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api?username=luhrodrigues45&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
-      alt="Estatísticas do GitHub">
-  </picture>
   
-  <!-- Top Langs -->
-  <picture>
-    <!-- Modo escuro -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-    <!-- Modo claro -->
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=ffffff&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook">
-    <!-- Fallback -->
-    <img width="37%" height="auto" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luhrodrigues45&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&hide=Shaderlab,hlml,shell,.c#,Jupyter Notebook" 
-      alt="Linguagens mais usadas">
-  </picture>
+<!-- ------------------ Estatísticas -->
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="General stats badge"/>
+  
+<!--------- Linguagens -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
 </div>
   
 <!-- ------------------ Animação da Cobrinha -->

@@ -110,28 +110,28 @@
     align="left"
     title="Kali Linux"
     width="25px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" />
 
   <img
     align="left"
     title="NMAP"
     width="25px"
-  src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+    src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   
   <img
     align="left"
     title="Linux"
     width="25px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
   <br><br>
   
 <!-- ------------------ Estatísticas -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="General stats badge"/>
+<img width="40%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="Estatisticas"/>
   
-<!--------- Linguagens -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="Top languages by repo badge"/>
+<!-- ------------------ Linguagens -->
+<img width="40%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="linguagens"/>
 </div>
   
 <!-- ------------------ Animação da Cobrinha -->
@@ -158,6 +158,7 @@
 <p align="center"> ⭐ A rede mais segura é aquela em que cada decisão foi tomada como se o ataque já tivesse começado. </p>
 
 ---
+<!-- ------------------ Redes Sociais-->
 
 <p align="center">
     <a href="https://www.instagram.com/luhrodrigues45/">

@@ -128,10 +128,10 @@
   
 <!-- ------------------ Estatísticas -->
 <div align="center">
-<img width="40%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="Estatisticas"/>
+<img width="45%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent" alt="Estatisticas"/>
   
 <!-- ------------------ Linguagens -->
-<img width="40%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="linguagens"/>
+<img width="45%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent" alt="linguagens"/>
 </div>
   
 <!-- ------------------ Animação da Cobrinha -->

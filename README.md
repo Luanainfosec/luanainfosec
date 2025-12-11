@@ -10,13 +10,13 @@
 
 <br>
 
-<h2> 🎓 Formação e Foco Profissional: </h2>
+## 🎓 Formação e Foco Profissional
 
-- 👩‍🎓 **Formação:** **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/).
-- 💡 **Área de Atuação:** Analista de Segurança Junior com Foco em Vulnerabilidades e Defesa.
-- 📚 **Desenvolvimento técnico contínuo:** Aprimorando conhecimentos em análise de vulnerabilidades, segurança ofensiva introdutória e hardening de sistemas.
+- 👩‍🎓 **Formação:** Tecnóloga em Defesa Cibernética pela [Faci Wyden](https://www.instagram.com/faciwyden/).
+- 💼 **Área de Atuação:** Analista de Segurança Júnior com foco em Vulnerabilidades e Defesa.
+- 🔍 **Desenvolvimento Técnico:** Prática contínua em análise de vulnerabilidades, segurança ofensiva básica e hardening de sistemas.
 
-<h2> 🤖 Linguagens, ferramentas e sistemas operacionais: </h2>
+## 🤖 Linguagens, ferramentas e sistemas operacionais:
 
 <img 
     align="left"

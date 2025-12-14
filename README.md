@@ -24,7 +24,7 @@
 - 🔍 **Foco técnico:**  
   - Análise inicial de vulnerabilidades em ambientes controlados  
   - Segurança defensiva e hardening de sistemas 
-  - Fundamentos de segurança ofensiva para compreensão de ataques
+  - Fundamentos de segurança ofensiva aplicados à compreensão de ataques
 
 <br>
 

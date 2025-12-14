@@ -15,8 +15,6 @@
   </a>
 </div>
 
-<br>
-
 ## 🎓 Formação e Foco Profissional
 
 - 🎓 **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/) 

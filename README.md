@@ -24,8 +24,6 @@
   - Segurança defensiva e hardening de sistemas 
   - Fundamentos de segurança ofensiva aplicados à compreensão de ataques
 
-<br>
-
 ## 🛠️ Tecnologias, Ferramentas e Ambientes
 
 - **Linguagens:** Python, JavaScript  

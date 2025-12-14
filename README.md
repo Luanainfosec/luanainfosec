@@ -32,19 +32,17 @@
 
 - **Linguagens:** Python, JavaScript  
 - **Versionamento:** Git  
-- **Containers (Nível Básico):** Docker  
-- **Cloud:** AWS, Azure, Google cloud. 
+- **Containers (nível básico):** Docker  
+- **Cloud (nível introdutório):** AWS, Azure
 - **Sistemas Operacionais:** Linux, Kali Linux, Windows Server  
-- **Ferramentas de Segurança de Rede:** Nmap, Wireshark
-- **Análise de Malware — Estática (nível introdutório):** Strings, file, sha256sum, VirusTotal
-- **Análise de Malware — Dinâmica (ambiente controlado):** Sandbox, máquinas virtuais, análise de comportamento de processos  
+- **Ferramentas de Segurança:** Nmap, Wireshark
 
 ---
 
 <!-- ------------------ Estatísticas -->
 <div align="center">
-  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent"/>
-  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent"/>
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luhrodrigues45&theme=transparent"/>
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luhrodrigues45&theme=transparent"/>
 </div>
 
 ---

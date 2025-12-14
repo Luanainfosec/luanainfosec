@@ -53,10 +53,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luhrodrigues45/luhrodrigues45/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<p align="center"><em> ⭐ “Todo sistema seguro já foi assumido como comprometido.” </em></p>
-
-
----

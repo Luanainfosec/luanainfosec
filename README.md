@@ -33,7 +33,7 @@
 - **Linguagens:** Python, JavaScript  
 - **Versionamento:** Git  
 - **Containers (nível básico):** Docker  
-- **Cloud (nível introdutório):** AWS, Azure
+- **Cloud:** AWS, Azure
 - **Sistemas Operacionais:** Linux, Kali Linux, Windows Server  
 - **Ferramentas de Segurança:** Nmap, Wireshark
 

@@ -10,31 +10,21 @@
   
   <p> Tecnóloga em Defesa Cibernética • Segurança Defensiva • Aprendizado contínuo </p>
   
-  <!-- <a href="https://github.com/Luhrodrigues45"> <img src="https://img.shields.io/github/followers/Luhrodrigues45?style=social" /> </a> -->
-   <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" /> </a>
+ <a href="https://github.com/Luhrodrigues45"> <img src="https://img.shields.io/github/followers/Luhrodrigues45?style=social" /> </a>
+  <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <br>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <h2>🎓 Formação e Foco Profissional</h2>
-      <ul>
-        <li>🎓 Tecnóloga em Defesa Cibernética pela Faci Wyden</li>
-        <li>🛡️ Objetivo profissional: Analista de Segurança Júnior</li>
-        <li>🔍 Foco técnico:
-          <ul>
-            <li>Análise inicial de vulnerabilidades em ambientes controlados;</li>
-            <li>Segurança defensiva e hardening de sistemas;</li>
-            <li>Fundamentos de segurança ofensiva aplicados à compreensão de ataques.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/luhrodrigues45.png" alt="Your Image Badge" />
-    </td>
-  </tr>
-</table>
+<br>
+
+## 🎓 Formação e Foco Profissional
+- 🎓 **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/) 
+- 🛡️ **Objetivo profissional:** Analista de Segurança Júnior  
+- 🔍 **Foco técnico:**  
+  - Análise inicial de vulnerabilidades em ambientes controlados  
+  - Segurança defensiva e hardening de sistemas 
+  - Fundamentos de segurança ofensiva aplicados à compreensão de ataques
 
 ---
 

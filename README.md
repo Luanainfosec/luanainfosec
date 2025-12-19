@@ -8,7 +8,7 @@
   <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle" src="https://media.licdn.com/dms/image/D4D12AQGHvJ-VPX_Usw/article-cover_image-shrink_600_2000/0/1686755671319?e=2147483647&v=beta&t=jstLIergXwNJD1dwKkAhI8-wIgvFyCYM73tOsob_RpU" target="_blank" /></a>
   </h1>
   
-  <p> Tecnóloga em Defesa Cibernética • Segurança Ofensiva & Defensiva • Aprendizado contínuo </p>
+  <p> Tecnóloga em Defesa Cibernética • Segurança Defensiva • Aprendizado contínuo </p>
   
   <a href="https://github.com/Luhrodrigues45"> <img src="https://img.shields.io/github/followers/Luhrodrigues45?style=social" /> </a>
   <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />

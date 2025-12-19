@@ -14,7 +14,7 @@
    <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" /> </a>
 </div>
 
-<table border="0">
+<table>
   <tr>
     <td>
       <h2>🎓 Formação e Foco Profissional</h2>

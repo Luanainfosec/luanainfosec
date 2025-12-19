@@ -27,15 +27,6 @@
   - Segurança defensiva e hardening de sistemas 
   - Fundamentos de segurança ofensiva aplicados à compreensão de ataques
 
-## 🛠️ Tecnologias, Ferramentas e Ambientes
-
-- **Linguagens:** Python, JavaScript  
-- **Versionamento:** Git  
-- **Containers (nível básico):** Docker  
-- **Cloud:** AWS, Azure
-- **Sistemas Operacionais:** Linux, Kali Linux, Windows Server  
-- **Ferramentas de Segurança:** Nmap, Wireshark
-
 ---
 
 <!-- ------------------ Estatísticas -->

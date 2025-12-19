@@ -13,6 +13,8 @@
   <a href="https://github.com/Luhrodrigues45"> <img src="https://img.shields.io/github/followers/Luhrodrigues45?style=social" /> </a>
   <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
   </a>
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tudo.tudo39.png" alt="Seu Distintivo de Imagem" />
 </div>
 
 <br>

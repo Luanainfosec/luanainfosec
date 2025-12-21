@@ -11,7 +11,7 @@
   <p> Tecnóloga em Defesa Cibernética • Segurança Defensiva • Aprendizado contínuo </p>
   
  <!-- <a href="https://github.com/Luhrodrigues45"> <img src="https://img.shields.io/github/followers/Luhrodrigues45?style=social" /> </a> -->
- <a href="https://tryhackme.com/p/luhrodrigues45"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=plastic&logo=tryhackme&logoColor=white" alt="TryHackMe badge"/> </a>
+ <a href="https://tryhackme.com/p/luhrodrigues45"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe badge"/> </a>
   <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
   </a>
   <br>

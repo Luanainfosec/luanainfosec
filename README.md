@@ -12,7 +12,7 @@
   
  <!-- <a href="https://github.com/Luanainfosec"> <img src="https://img.shields.io/github/followers/Luanainfosec?style=social" /> </a> -->
  <a href="https://tryhackme.com/p/Luanainfosec"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe badge"/> </a>
-  <a href="https://www.linkedin.com/in/luhrodrigues45/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luanainfosec/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
   </a>
   <br>
 </div>

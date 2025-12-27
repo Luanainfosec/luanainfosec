@@ -1,6 +1,6 @@
 <!-- ================== Cabeçalho -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Luanainfosec &label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Luanainfosec&label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
   <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28px" width="28px">
 </p>
 

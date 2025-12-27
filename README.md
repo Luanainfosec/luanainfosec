@@ -21,11 +21,7 @@
 
 ## 🎓 Formação e Foco Profissional
 - 🎓 **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/) 
-- 🛡️ **Objetivo profissional:** Analista de Segurança Júnior  
-- 🔍 **Foco técnico:**  
-  - Análise inicial de vulnerabilidades em ambientes controlados  
-  - Segurança defensiva e hardening de sistemas 
-  - Fundamentos de segurança ofensiva aplicados à compreensão de ataques
+- 🎯 Objetivo: **SOC L1 / Analista de Segurança da Informação Jr.**
 
 ---
 

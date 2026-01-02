@@ -21,7 +21,7 @@
 
 ## 🎓 Formação e Foco Profissional
 - 🎓 **Tecnóloga em Defesa Cibernética** pela [Faci Wyden](https://www.instagram.com/faciwyden/) 
-- 🎯 Objetivo: **SOC L1 / Analista de Segurança da Informação Jr.**
+- 🎯 Objetivo: **SOC L1.**
 
 ---
 
